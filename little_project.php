@@ -25,7 +25,7 @@
                 echo $this->txt = $name;
             }
     }
-
+  
     $object = new form;
     $object->display($name);
 
